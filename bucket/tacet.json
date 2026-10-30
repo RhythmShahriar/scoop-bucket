@@ -1,0 +1,22 @@
+{
+    "version": "1.2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/RhythmShahriar/tacet/releases/download/v1.2.0/tacet_windows_amd64.zip",
+            "bin": [
+                "tacet.exe"
+            ],
+            "hash": "5a3920ee725ae1fc11f6aef4a3670ae7aa1d91322a3b1c5d07f888ba7c01eaa8"
+        },
+        "arm64": {
+            "url": "https://github.com/RhythmShahriar/tacet/releases/download/v1.2.0/tacet_windows_arm64.zip",
+            "bin": [
+                "tacet.exe"
+            ],
+            "hash": "108492ada0dbe165976ddc49326fd65f7b561070f05094f776cc0a702c815f57"
+        }
+    },
+    "homepage": "https://github.com/RhythmShahriar/tacet",
+    "license": "MIT",
+    "description": "Makes Claude Code use fewer tokens on any project"
+}
