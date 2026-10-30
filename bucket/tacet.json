@@ -1,19 +1,19 @@
 {
-    "version": "1.2.1",
+    "version": "1.2.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/RhythmShahriar/tacet/releases/download/v1.2.1/tacet_windows_amd64.zip",
+            "url": "https://github.com/RhythmShahriar/tacet/releases/download/v1.2.2/tacet_windows_amd64.zip",
             "bin": [
                 "tacet.exe"
             ],
-            "hash": "a713d54a2a33ff58693fbf4ffe0e3f30d24d6d677e9a80967b5a72700976d27e"
+            "hash": "c5efbe17311834bac44238936f2cd60698083031a14c3bb308778d2fe3cd3e1b"
         },
         "arm64": {
-            "url": "https://github.com/RhythmShahriar/tacet/releases/download/v1.2.1/tacet_windows_arm64.zip",
+            "url": "https://github.com/RhythmShahriar/tacet/releases/download/v1.2.2/tacet_windows_arm64.zip",
             "bin": [
                 "tacet.exe"
             ],
-            "hash": "19bf793e48c8369efbc35c336d86093196227db57a462e483e198c09d3a23fe2"
+            "hash": "f869c798b180baac9dc7582263986af483d7d8dfff8e468bfc2b43ae653b408d"
         }
     },
     "homepage": "https://github.com/RhythmShahriar/tacet",
